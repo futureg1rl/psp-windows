@@ -2,7 +2,7 @@
 
 // Archived by FUTUREGIRL - Im using MS DOS - BORLAND TURBO to edit & recompile
 
-// The Original DosBox + DBS 2C - Created by CrazyC and Gaby_64. I take 0 credit for the creation of this. I would like people to see it and be able to use it. Original page is below, and creator credits are here. I have permission from the creator to post this. Hopefully we can improve this, and optimise for the VITA!
+// The Original DosBox + DBS 2C - Created by CrazyC and Gaby_64. 
 
 	- https://web.archive.org/web/20080420165359/http://djkman.freesmfhosting.com/index.php?topic=8.0
 	- Gaby_64@live.ca (i dont think her email still works)
